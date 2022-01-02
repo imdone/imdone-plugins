@@ -1,0 +1,9 @@
+[
+  {
+    "name": "imdone-sample-plugin",
+    "version": "imdone/imdone-sample-plugin",
+    "title": "Sample Plugin",
+    "description": "A sample plugin for imdone.",
+    "author": "Jesse Piascik"
+  }
+]

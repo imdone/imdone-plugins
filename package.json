@@ -1,0 +1,23 @@
+{
+  "name": "imdone-plugins",
+  "version": "0.1.0",
+  "description": "The imdone plugins registry",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdone/imdone-plugins.git"
+  },
+  "keywords": [
+    "kanban",
+    "markdown"
+  ],
+  "author": "Jesse Piascik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imdone/imdone-plugins/issues"
+  },
+  "homepage": "https://github.com/imdone/imdone-plugins#readme"
+}
