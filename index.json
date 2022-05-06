@@ -5,5 +5,12 @@
     "title": "Sample Plugin",
     "description": "A sample plugin for imdone.",
     "author": "Jesse Piascik"
+  },
+  {
+    "name": "imdone-header-footer-plugin",
+    "version": "piascikj/imdone-sample-plugin",
+    "title": "Header/Footer Plugin",
+    "description": "A Header/Footer plugin for imdone.",
+    "author": "Jesse Piascik"
   }
 ]
