@@ -8,7 +8,7 @@
   },
   {
     "name": "imdone-header-footer-plugin",
-    "version": "piascikj/imdone-sample-plugin#main",
+    "version": "piascikj/imdone-header-footer-plugin#main",
     "title": "Header/Footer Plugin",
     "description": "A Header/Footer plugin for imdone.",
     "author": "Jesse Piascik"
