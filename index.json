@@ -10,7 +10,14 @@
     "name": "imdone-header-footer-plugin",
     "version": "piascikj/imdone-header-footer-plugin#main",
     "title": "Header/Footer Plugin",
-    "description": "A Header/Footer plugin for imdone.",
+    "description": "Apply a custom header and footer to every coard on your board.",
+    "author": "Jesse Piascik"
+  },
+  {
+    "name": "imdone-card-link-plugin",
+    "version": "imdone/imdone-card-link-plugin",
+    "title": "Card link plugin",
+    "description": "Adds a card action for copying a markdown link to a card.",
     "author": "Jesse Piascik"
   }
 ]
