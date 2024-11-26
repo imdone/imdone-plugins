@@ -1,20 +1,20 @@
 [
   {
-    "name": "imdone-sample-plugin",
+    "name": "SamplePlugin",
     "version": "imdone/imdone-sample-plugin",
     "title": "Sample Plugin",
     "description": "A sample plugin for imdone.",
     "author": "Jesse Piascik"
   },
   {
-    "name": "imdone-header-footer-plugin",
+    "name": "HeaderFooterPlugin",
     "version": "piascikj/imdone-header-footer-plugin#main",
     "title": "Header/Footer Plugin",
     "description": "Apply a custom header and footer to every coard on your board.",
     "author": "Jesse Piascik"
   },
   {
-    "name": "imdone-card-link-plugin",
+    "name": "CardLinkPlugin",
     "version": "imdone/imdone-card-link-plugin",
     "title": "Card link plugin",
     "description": "Adds a card action for copying a markdown link to a card.",
