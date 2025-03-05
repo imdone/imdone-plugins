@@ -8,7 +8,7 @@
   },
   {
     "name": "HeaderFooterPlugin",
-    "version": "piascikj/imdone-header-footer-plugin#main",
+    "version": "piascikj/imdone-header-footer-plugin",
     "title": "Header/Footer Plugin",
     "description": "Apply a custom header and footer to every coard on your board.",
     "author": "Jesse Piascik"
